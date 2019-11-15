@@ -1,4 +1,4 @@
-Model Accuracy:[0.0313140073831335, 0.9921]
+Model Accuracy: [0.0313140073831335, 0.9921]
 
 
 Definitions:
