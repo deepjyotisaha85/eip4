@@ -23,7 +23,7 @@ Epochs - Training on all the elements in the dataset once is 1 epoc.
 Feature Maps - The output of a trained kernel is going to be a feature map - collection of all features
 
 
-Activation Function -
+Activation Function - Mathematical function to initialize the layer
 
 
 Receptive Field - Local Receptive Field of a pixel is the area it convolves over
