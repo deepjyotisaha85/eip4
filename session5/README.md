@@ -1,4 +1,4 @@
-==============  Final Accuracies ================ <br /> 
+==============  Best Accuracies ================ <br /> 
 
 age_output_acc           : 44.5565 <br />
 bag_output_acc           : 68.0444 <br />
